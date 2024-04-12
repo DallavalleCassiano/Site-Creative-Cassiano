@@ -1,4 +1,13 @@
-header{
+ *{
+margin: 0;
+padding: 0;
+ }
+
+.cabecalho{
     background-color:#003A20 ;
-    color: #000000;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
 }

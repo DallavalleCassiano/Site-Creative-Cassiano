@@ -1,4 +1,8 @@
- *{
+.cabecalho-imagem{
+    width: 15;
+}
+
+*{
 margin: 0;
 padding: 0;
  }
@@ -7,7 +11,12 @@ padding: 0;
     background-color:#003A20 ;
     color: white;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 24px;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
 }

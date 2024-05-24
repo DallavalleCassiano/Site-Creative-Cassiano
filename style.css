@@ -25,14 +25,26 @@ padding: 0;
 }
 
 .Boston-Celtics{
-    background-image: linear-gradient(#018147, #FFFFFF );
+    background-image: linear-gradient(#003A20 , #FFFFFF );
     color: black;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 150px 0;
 }
 .Celtics-div-conteudo{
+    width: 35%;
+    text-align: center;
+    font-family:"Poppins" sans-serif;
 
-    
+
+}
+.Boston-Celtics-titulo {
+    font-size:32px;
+    padding: 24px;
+    text-align: center;
+}
+.jogador-ícone{
+
+    width: 35px;
 }
